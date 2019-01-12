@@ -1,4 +1,4 @@
-# Publisher Subscriber Android
+# Presence Android
 
 This is the example of how see Presence on Android using and PubNub
 
